@@ -12,7 +12,7 @@
 
 ### Build Tools
 
-- Android Studio Bumblebee | 2021.1.1 Patch 3
+- Android Studio Koala | 2023.3.2 Canary 2
 - Gradle Version 7.2
 
 ### Screenshots
@@ -41,4 +41,4 @@ To install the WeatherApp on your Android device, follow these steps:
 
 ### Download APK
 
-You can download the latest version of the WeatherApp APK [here]().
+You can download the latest version of the WeatherApp APK [here](https://github.com/gojiyajayesh/WeatherApp/blob/main/apkfile/WeatherApp.apk).
